@@ -1,0 +1,17 @@
+.Photos img {
+    border-radius: 8px;
+  }
+  
+  .Photos .col-md-4 {
+    padding: 10px;
+  }
+  
+  .Photos .row {
+    padding: 0 15px;
+  }
+  
+  @media (max-width: 992px) {
+    .Photos .col-md-4 {
+      padding: 6px;
+    }
+  }

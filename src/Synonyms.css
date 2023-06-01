@@ -1,0 +1,22 @@
+.Synonyms li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 5px 0 5px;
+    font-size: 14px;
+  }
+  
+  .Synonyms ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Synonyms .see-also {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .Synonyms {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+  }
