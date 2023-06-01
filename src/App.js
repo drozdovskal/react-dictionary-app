@@ -11,8 +11,8 @@ export default function App() {
           <Dictionary defaultWord="star" />
         </main>
         <footer className="text-center">
-          This project was coded by Silvia Cremascoli and is open-sourced on{" "}
-          <a href="https://github.com/silviacremascoli/react-dictionary-app">
+          This project was coded by Drozdovska and is open-sourced on{" "}
+          <a href="https://github.com/drozdovskal/react-dictionary-app">
             GitHub
           </a>
           🚀
